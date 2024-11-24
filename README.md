@@ -1,5 +1,5 @@
 
-# Student Data Management System [Link](https://student-data-management-ebon.vercel.app/)
+# Student Data Management System   [(Deployed Link)](https://student-data-management-ebon.vercel.app/)
 
 ## Overview
 The **Student Data Management System** is a web application built using **Python Django**, **HTML**, **CSS**, and **JavaScript**. It provides a user-friendly interface to manage student records with complete **CRUD (Create, Read, Update, Delete)** functionality, making data management efficient and streamlined.
